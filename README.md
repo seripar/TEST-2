@@ -9,4 +9,4 @@
 
 ## ㅇㅇㅇㅇ
 ## 링크
-<a herf="https://serypark12.github.io/TEST-2> 링크</a>
+<a href="https://serypark12.github.io/TEST-2/> 링크</a>
